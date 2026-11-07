@@ -10,7 +10,7 @@
     "keywords": ["zeen", "programming-language", "lsp"],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mealet/zeen-vscode"
+        "url": "https://github.com/zeen-lang/zeen-vscode"
     },
     "engines": {
         "vscode": "^1.85.0"

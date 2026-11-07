@@ -1,5 +1,5 @@
 # Zeen VS Code
-[Zeen Programming Language](https://github.com/mealet/zeen) support for VS Code.
+[Zeen Programming Language](https://github.com/zeen-lang/zeen) support for VS Code.
 
 ## Installation
 Make sure you have installed `zeen` and `zeen-lsp` binaries from the latest release. <br/>
